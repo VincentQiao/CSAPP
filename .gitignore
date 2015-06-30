@@ -1,0 +1,9 @@
+# python
+*.pyc
+.idea
+.idea/worksace.xml
+.project
+.pydevproject
+.settings/
+*.log
+*~
